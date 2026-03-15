@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Proyecto XXX
+=======
+# Proyecto Modificado
+>>>>>>> rama-conflicto
 # Nueva linea importante
 # creditos en rama nueva idea reparado
 # linea 4
